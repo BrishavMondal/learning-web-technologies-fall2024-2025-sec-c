@@ -1,0 +1,22 @@
+<emoployees>
+   <emoployee>
+      <ID>1</ID>
+      <NAME>Jhon Doe</NAME>
+      <ADDRESS>H# 38,R#3,Banani,Dhaka</ADDRESS>
+   </emoployee>
+
+   <emoployee>
+      <ID>2</ID>
+      <NAME>Mark Zuckerberg</NAME>
+      <ADDRESS>Flat# A/1,H# 20,R#18,Mirpur,Dhaka</ADDRESS>
+   </emoployee>
+
+   <emoployee>
+      <ID>3</ID>
+      <NAME>ALa Voski</NAME>
+      <ADDRESS>H#38, R#3, Motijheel</ADDRESS>
+   </emoployee>
+
+
+
+</emoployees>
